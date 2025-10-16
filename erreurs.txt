@@ -1,0 +1,201 @@
+[{
+	"resource": "/c:/Users/TOUHAMI/Desktop/Jack & Joe 6/styles-optimized.css",
+	"owner": "_generated_diagnostic_collection_name_#0",
+	"code": {
+		"value": "compat-api/css",
+		"target": {
+			"$mid": 1,
+			"path": "/docs/Web/CSS/backdrop-filter",
+			"scheme": "https",
+			"authority": "developer.mozilla.org"
+		}
+	},
+	"severity": 8,
+	"message": "'backdrop-filter' is not supported by Safari, Safari on iOS. Add '-webkit-backdrop-filter' to support Safari 9+, Safari on iOS 9+.",
+	"source": "Microsoft Edge Tools",
+	"startLineNumber": 69,
+	"startColumn": 5,
+	"endLineNumber": 69,
+	"endColumn": 20,
+	"extensionID": "ms-edgedevtools.vscode-edge-devtools"
+},{
+	"resource": "/c:/Users/TOUHAMI/Desktop/Jack & Joe 6/styles-optimized.css",
+	"owner": "_generated_diagnostic_collection_name_#0",
+	"code": {
+		"value": "compat-api/css",
+		"target": {
+			"$mid": 1,
+			"path": "/docs/Web/CSS/min-height",
+			"scheme": "https",
+			"authority": "developer.mozilla.org"
+		}
+	},
+	"severity": 4,
+	"message": "'min-height: auto' is not supported by Firefox 22+, Firefox for Android 22+.",
+	"source": "Microsoft Edge Tools",
+	"startLineNumber": 344,
+	"startColumn": 21,
+	"endLineNumber": 344,
+	"endColumn": 25,
+	"extensionID": "ms-edgedevtools.vscode-edge-devtools"
+},{
+	"resource": "/c:/Users/TOUHAMI/Desktop/Jack & Joe 6/styles.css",
+	"owner": "_generated_diagnostic_collection_name_#0",
+	"code": {
+		"value": "compat-api/css",
+		"target": {
+			"$mid": 1,
+			"path": "/docs/Web/CSS/backdrop-filter",
+			"scheme": "https",
+			"authority": "developer.mozilla.org"
+		}
+	},
+	"severity": 8,
+	"message": "'backdrop-filter' is not supported by Safari, Safari on iOS. Add '-webkit-backdrop-filter' to support Safari 9+, Safari on iOS 9+.",
+	"source": "Microsoft Edge Tools",
+	"startLineNumber": 3400,
+	"startColumn": 5,
+	"endLineNumber": 3400,
+	"endColumn": 20,
+	"extensionID": "ms-edgedevtools.vscode-edge-devtools"
+},{
+	"resource": "/c:/Users/TOUHAMI/Desktop/Jack & Joe 6/css-optimized/sections.css",
+	"owner": "_generated_diagnostic_collection_name_#0",
+	"code": {
+		"value": "compat-api/css",
+		"target": {
+			"$mid": 1,
+			"path": "/docs/Web/CSS/min-height",
+			"scheme": "https",
+			"authority": "developer.mozilla.org"
+		}
+	},
+	"severity": 4,
+	"message": "'min-height: auto' is not supported by Firefox 22+, Firefox for Android 22+.",
+	"source": "Microsoft Edge Tools",
+	"startLineNumber": 282,
+	"startColumn": 21,
+	"endLineNumber": 282,
+	"endColumn": 25,
+	"extensionID": "ms-edgedevtools.vscode-edge-devtools"
+},{
+	"resource": "/c:/Users/TOUHAMI/Desktop/Jack & Joe 6/css-optimized/utilities.css",
+	"owner": "_generated_diagnostic_collection_name_#0",
+	"code": {
+		"value": "compat-api/css",
+		"target": {
+			"$mid": 1,
+			"path": "/docs/Web/CSS/min-height",
+			"scheme": "https",
+			"authority": "developer.mozilla.org"
+		}
+	},
+	"severity": 4,
+	"message": "'min-height: auto' is not supported by Firefox 22+, Firefox for Android 22+.",
+	"source": "Microsoft Edge Tools",
+	"startLineNumber": 210,
+	"startColumn": 21,
+	"endLineNumber": 210,
+	"endColumn": 25,
+	"extensionID": "ms-edgedevtools.vscode-edge-devtools"
+},{
+	"resource": "/c:/Users/TOUHAMI/Desktop/Jack & Joe 6/test-optimized.html",
+	"owner": "_generated_diagnostic_collection_name_#0",
+	"code": {
+		"value": "no-inline-styles",
+		"target": {
+			"$mid": 1,
+			"path": "/docs/user-guide/hints/hint-no-inline-styles/",
+			"scheme": "https",
+			"authority": "webhint.io"
+		}
+	},
+	"severity": 4,
+	"message": "CSS inline styles should not be used, move styles to an external CSS file",
+	"source": "Microsoft Edge Tools",
+	"startLineNumber": 58,
+	"startColumn": 22,
+	"endLineNumber": 58,
+	"endColumn": 25,
+	"extensionID": "ms-edgedevtools.vscode-edge-devtools"
+},{
+	"resource": "/c:/Users/TOUHAMI/Desktop/Jack & Joe 6/test-optimized.html",
+	"owner": "_generated_diagnostic_collection_name_#0",
+	"code": {
+		"value": "no-inline-styles",
+		"target": {
+			"$mid": 1,
+			"path": "/docs/user-guide/hints/hint-no-inline-styles/",
+			"scheme": "https",
+			"authority": "webhint.io"
+		}
+	},
+	"severity": 4,
+	"message": "CSS inline styles should not be used, move styles to an external CSS file",
+	"source": "Microsoft Edge Tools",
+	"startLineNumber": 83,
+	"startColumn": 22,
+	"endLineNumber": 83,
+	"endColumn": 25,
+	"extensionID": "ms-edgedevtools.vscode-edge-devtools"
+},{
+	"resource": "/c:/Users/TOUHAMI/Desktop/Jack & Joe 6/test-optimized.html",
+	"owner": "_generated_diagnostic_collection_name_#0",
+	"code": {
+		"value": "no-inline-styles",
+		"target": {
+			"$mid": 1,
+			"path": "/docs/user-guide/hints/hint-no-inline-styles/",
+			"scheme": "https",
+			"authority": "webhint.io"
+		}
+	},
+	"severity": 4,
+	"message": "CSS inline styles should not be used, move styles to an external CSS file",
+	"source": "Microsoft Edge Tools",
+	"startLineNumber": 130,
+	"startColumn": 18,
+	"endLineNumber": 130,
+	"endColumn": 21,
+	"extensionID": "ms-edgedevtools.vscode-edge-devtools"
+},{
+	"resource": "/c:/Users/TOUHAMI/Desktop/Jack & Joe 6/test-optimized.html",
+	"owner": "_generated_diagnostic_collection_name_#0",
+	"code": {
+		"value": "no-inline-styles",
+		"target": {
+			"$mid": 1,
+			"path": "/docs/user-guide/hints/hint-no-inline-styles/",
+			"scheme": "https",
+			"authority": "webhint.io"
+		}
+	},
+	"severity": 4,
+	"message": "CSS inline styles should not be used, move styles to an external CSS file",
+	"source": "Microsoft Edge Tools",
+	"startLineNumber": 181,
+	"startColumn": 30,
+	"endLineNumber": 181,
+	"endColumn": 33,
+	"extensionID": "ms-edgedevtools.vscode-edge-devtools"
+},{
+	"resource": "/c:/Users/TOUHAMI/Desktop/Jack & Joe 6/test-optimized.html",
+	"owner": "_generated_diagnostic_collection_name_#0",
+	"code": {
+		"value": "no-inline-styles",
+		"target": {
+			"$mid": 1,
+			"path": "/docs/user-guide/hints/hint-no-inline-styles/",
+			"scheme": "https",
+			"authority": "webhint.io"
+		}
+	},
+	"severity": 4,
+	"message": "CSS inline styles should not be used, move styles to an external CSS file",
+	"source": "Microsoft Edge Tools",
+	"startLineNumber": 182,
+	"startColumn": 30,
+	"endLineNumber": 182,
+	"endColumn": 33,
+	"extensionID": "ms-edgedevtools.vscode-edge-devtools"
+}]

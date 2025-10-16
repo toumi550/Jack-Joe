@@ -1,0 +1,600 @@
+/* ========================================
+   CORRECTIONS RESPONSIVE MOBILE
+   Fichier à ajouter après styles.css
+   ======================================== */
+
+/* Améliorations Hero Section Mobile */
+@media (max-width: 768px) {
+    .hero {
+        min-height: 100vh !important;
+        padding-top: 80px !important;
+        padding-bottom: 3rem !important;
+    }
+    
+    .hero-container {
+        padding: 0 1.5rem !important;
+    }
+    
+    .hero-title {
+        font-size: 2rem !important;
+        line-height: 1.15 !important;
+        letter-spacing: -0.5px !important;
+    }
+    
+    .hero-subtitle {
+        font-size: 0.95rem !important;
+        line-height: 1.5 !important;
+        margin-bottom: 1.5rem !important;
+    }
+    
+    .hero-buttons {
+        gap: 0.75rem !important;
+        align-items: stretch !important;
+        width: 100% !important;
+    }
+    
+    .hero .btn-primary,
+    .hero .btn-secondary {
+        min-width: 100% !important;
+        width: 100% !important;
+        max-width: 100% !important;
+        padding: 14px 20px !important;
+        font-size: 13px !important;
+    }
+    
+    .decorative-crosses {
+        gap: 0.75rem !important;
+        padding: 0.75rem !important;
+    }
+}
+
+@media (max-width: 480px) {
+    .hero {
+        padding-top: 70px !important;
+        padding-bottom: 2rem !important;
+    }
+    
+    .hero-title {
+        font-size: 1.75rem !important;
+        line-height: 1.2 !important;
+    }
+    
+    .hero-subtitle {
+        font-size: 0.875rem !important;
+    }
+    
+    .hero-container {
+        padding: 0 1rem !important;
+        gap: 1.5rem !important;
+    }
+}
+
+/* Hero2 Section Mobile */
+@media (max-width: 768px) {
+    .hero2-section {
+        padding: 0 !important;
+    }
+    
+    .hero2-container {
+        padding: 0 !important;
+    }
+    
+    .hero2-img {
+        width: 100% !important;
+        height: auto !important;
+        display: block !important;
+        align-items: stretch !important;
+    }
+    
+    .construction-btn {
+        min-width: 100% !important;
+        width: 100% !important;
+        padding: 14px 20px !important;
+        font-size: 13px !important;
+    }
+}
+
+/* Website/Ads/CRM Sections Mobile */
+@media (max-width: 768px) {
+    .website-section,
+    .stop-guessing-section,
+    .crm-section {
+        padding: 3rem 0 !important;
+    }
+    
+    .website-container,
+    .stop-guessing-container,
+    .crm-container {
+        padding: 0 1.5rem !important;
+        gap: 2rem !important;
+    }
+    
+    .website-content h2,
+    .stop-guessing-content h2,
+    .crm-content h2 {
+        font-size: 2rem !important;
+        line-height: 1.2 !important;
+        margin-bottom: 1.5rem !important;
+    }
+    
+    .highlight-bar {
+        height: 50px !important;
+    }
+    
+    .highlight-text {
+        font-size: 1.1rem !important;
+        line-height: 1.3 !important;
+    }
+    
+    .website-description,
+    .stop-guessing-description,
+    .crm-description {
+        font-size: 0.95rem !important;
+        line-height: 1.6 !important;
+        margin-bottom: 2rem !important;
+    }
+    
+    .stop-guessing-subtitle {
+        font-size: 1.1rem !important;
+        margin-bottom: 1.5rem !important;
+    }
+    
+    .crm-subtitle {
+        font-size: 1rem !important;
+        margin-bottom: 1rem !important;
+    }
+    
+    .website-preview,
+    .analytics-preview,
+    .crm-screen {
+        width: 100% !important;
+        height: auto !important;
+    }
+}
+
+@media (max-width: 480px) {
+    .website-content h2,
+    .stop-guessing-content h2,
+    .crm-content h2 {
+        font-size: 1.75rem !important;
+    }
+    
+    .highlight-text {
+        font-size: 1rem !important;
+    }
+    
+    .website-description,
+    .stop-guessing-description,
+    .crm-description {
+        font-size: 0.9rem !important;
+    }
+}
+
+/* Strategy Section Mobile */
+@media (max-width: 768px) {
+    .strategy-section {
+        padding: 3rem 0 !important;
+    }
+    
+    .strategy-container {
+        padding: 0 1.5rem !important;
+    }
+    
+    .strategy-container h2 {
+        font-size: 2rem !important;
+        line-height: 1.2 !important;
+        margin-bottom: 1.5rem !important;
+    }
+    
+    .strategy-intro {
+        font-size: 0.95rem !important;
+        margin-bottom: 0.75rem !important;
+    }
+    
+    .strategy-description {
+        font-size: 0.95rem !important;
+        line-height: 1.5 !important;
+        margin-bottom: 2rem !important;
+    }
+    
+    .strategy-grid {
+        gap: 1.5rem !important;
+        margin: 2rem 0 !important;
+    }
+    
+    .strategy-card {
+        padding: 1.5rem !important;
+        text-align: center !important;
+    }
+    
+    .strategy-card-image {
+        height: 180px !important;
+        margin-bottom: 1rem !important;
+    }
+    
+    .strategy-card h3 {
+        font-size: 1.3rem !important;
+        margin-bottom: 0.75rem !important;
+    }
+    
+    .strategy-card p {
+        font-size: 0.9rem !important;
+        line-height: 1.5 !important;
+    }
+    
+    .btn-schedule-meeting {
+        width: 100% !important;
+        margin: 2rem auto 0 !important;
+        padding: 14px 20px !important;
+        font-size: 13px !important;
+    }
+}
+
+@media (max-width: 480px) {
+    .strategy-container h2 {
+        font-size: 1.75rem !important;
+    }
+    
+    .strategy-card-image {
+        height: 150px !important;
+    }
+}
+
+/* Difference Section Mobile */
+@media (max-width: 768px) {
+    .difference-section {
+        padding: 3rem 0 !important;
+    }
+    
+    .difference-container {
+        padding: 0 1.5rem !important;
+    }
+    
+    .difference-header h2 {
+        font-size: 1.85rem !important;
+        line-height: 1.2 !important;
+        margin-bottom: 1rem !important;
+    }
+    
+    .difference-header p {
+        font-size: 0.95rem !important;
+        line-height: 1.5 !important;
+        margin-bottom: 1.5rem !important;
+    }
+    
+    .btn-about-us {
+        padding: 12px 24px !important;
+        font-size: 13px !important;
+    }
+    
+    .difference-cards {
+        gap: 1rem !important;
+    }
+    
+    .difference-card {
+        padding: 1.25rem !important;
+    }
+    
+    .difference-card h3 {
+        font-size: 1.15rem !important;
+        margin-bottom: 0.75rem !important;
+    }
+    
+    .difference-card p {
+        font-size: 0.9rem !important;
+        line-height: 1.5 !important;
+    }
+    
+    .internal-card-heading {
+        margin-top: 1.5rem !important;
+    }
+}
+
+@media (max-width: 480px) {
+    .difference-header h2 {
+        font-size: 1.65rem !important;
+    }
+    
+    .difference-card {
+        padding: 1rem !important;
+    }
+    
+    .difference-card h3 {
+        font-size: 1.05rem !important;
+    }
+    
+    .difference-card p {
+        font-size: 0.85rem !important;
+    }
+}
+
+/* Contact Section & Tabs Mobile */
+@media (max-width: 768px) {
+    .contact.contact--wecall .contact-top {
+        padding: 3rem 0 !important;
+    }
+    
+    .contact.contact--wecall .tabs-container {
+        padding: 0 1rem !important;
+    }
+    
+    .contact.contact--wecall .tabs-navigation {
+        flex-wrap: wrap !important;
+        gap: 0.5rem !important;
+    }
+    
+    .contact.contact--wecall .tab-button {
+        flex: 1 1 auto !important;
+        min-width: calc(50% - 0.25rem) !important;
+        padding: 10px 8px !important;
+        font-size: 11px !important;
+        text-align: center !important;
+        white-space: normal !important;
+        line-height: 1.3 !important;
+    }
+    
+    .contact.contact--wecall .tabs-content {
+        padding: 16px !important;
+        min-height: 200px !important;
+    }
+    
+    .contact.contact--wecall .tab-content p {
+        font-size: 13px !important;
+        line-height: 1.5 !important;
+        margin-bottom: 12px !important;
+    }
+    
+    .contact.contact--wecall .contact-bottom {
+        grid-template-columns: 1fr !important;
+        padding: 1.5rem 1rem !important;
+        gap: 1.5rem !important;
+    }
+    
+    .contact.contact--wecall .contact-aside {
+        text-align: center !important;
+        justify-content: center !important;
+    }
+    
+    .contact.contact--wecall .contact-aside h3 {
+        font-size: 20px !important;
+    }
+    
+    .contact.contact--wecall .contact-form {
+        max-width: 100% !important;
+        padding: 20px !important;
+        justify-self: stretch !important;
+    }
+    
+    .contact.contact--wecall .form-heading {
+        font-size: 18px !important;
+        margin-bottom: 12px !important;
+    }
+    
+    .contact.contact--wecall .form-row {
+        flex-direction: column !important;
+        gap: 12px !important;
+    }
+    
+    .contact.contact--wecall .contact-form input,
+    .contact.contact--wecall .contact-form textarea {
+        padding: 11px 12px !important;
+        font-size: 14px !important;
+    }
+    
+    .contact.contact--wecall .form-buttons {
+        flex-direction: column !important;
+        gap: 10px !important;
+    }
+    
+    .contact.contact--wecall .btn-submit,
+    .contact.contact--wecall .btn-secondary {
+        width: 100% !important;
+        padding: 13px 20px !important;
+        font-size: 13px !important;
+    }
+}
+
+@media (max-width: 480px) {
+    .contact.contact--wecall .tab-button {
+        min-width: 100% !important;
+        font-size: 10px !important;
+        padding: 8px 6px !important;
+    }
+    
+    .contact.contact--wecall .tabs-content {
+        padding: 12px !important;
+    }
+    
+    .contact.contact--wecall .tab-content p {
+        font-size: 12px !important;
+    }
+    
+    .contact.contact--wecall .contact-form {
+        padding: 16px !important;
+    }
+}
+
+/* Footer Mobile */
+@media (max-width: 768px) {
+    .footer {
+        padding: 2.5rem 0 1.5rem !important;
+    }
+    
+    .footer-container {
+        padding: 0 1.5rem !important;
+    }
+    
+    .footer-logo .logo-box h2 {
+        font-size: 26px !important;
+    }
+    
+    .footer-logo .logo-box p {
+        font-size: 12px !important;
+    }
+    
+    .footer-links {
+        gap: 2rem !important;
+    }
+    
+    .footer-column h4 {
+        font-size: 15px !important;
+        margin-bottom: 15px !important;
+    }
+    
+    .footer-column a,
+    .footer-column p {
+        font-size: 13px !important;
+    }
+    
+    .social-icons {
+        gap: 12px !important;
+    }
+    
+    .social-icons a {
+        width: 38px !important;
+        height: 38px !important;
+    }
+}
+
+@media (max-width: 480px) {
+    .footer {
+        padding: 2rem 0 1rem !important;
+    }
+    
+    .footer-logo .logo-box h2 {
+        font-size: 22px !important;
+    }
+    
+    .footer-column h4 {
+        font-size: 14px !important;
+    }
+    
+    .footer-column a,
+    .footer-column p {
+        font-size: 12px !important;
+    }
+}
+
+/* Boutons généraux Mobile */
+@media (max-width: 768px) {
+    .btn-primary, 
+    .btn-secondary, 
+    .construction-btn, 
+    .btn-more-info, 
+    .btn-get-started, 
+    .btn-pricing, 
+    .btn-cta {
+        padding: 14px 20px !important;
+        font-size: 13px !important;
+    }
+}
+
+@media (max-width: 480px) {
+    .btn-primary, 
+    .btn-secondary, 
+    .construction-btn, 
+    .btn-more-info, 
+    .btn-get-started, 
+    .btn-pricing, 
+    .btn-cta {
+        padding: 13px 18px !important;
+        font-size: 12px !important;
+    }
+}
+
+/* Navigation Mobile - Améliorations */
+@media (max-width: 768px) {
+    .navbar {
+        padding: 0.75rem 0 !important;
+    }
+    
+    .nav-container {
+        padding: 0 1rem !important;
+    }
+    
+    .logo-main {
+        font-size: 1.3rem !important;
+    }
+    
+    .logo-sub {
+        font-size: 0.6rem !important;
+    }
+    
+    .btn-contact {
+        padding: 0.65rem 1.25rem !important;
+        font-size: 0.85rem !important;
+    }
+    
+    .nav-menu a {
+        font-size: 1.3rem !important;
+    }
+    
+    .dropdown-menu a {
+        font-size: 1.1rem !important;
+    }
+}
+
+@media (max-width: 480px) {
+    .logo-main {
+        font-size: 1.2rem !important;
+    }
+    
+    .logo-sub {
+        font-size: 0.55rem !important;
+    }
+    
+    .btn-contact {
+        padding: 0.6rem 1rem !important;
+        font-size: 0.8rem !important;
+    }
+}
+
+/* Images responsive - Corrections */
+@media (max-width: 768px) {
+    img {
+        max-width: 100% !important;
+        height: auto !important;
+    }
+    
+    .construction-img,
+    .website-preview,
+    .analytics-preview,
+    .crm-screen {
+        width: 100% !important;
+        max-width: 100% !important;
+        height: auto !important;
+    }
+}
+
+/* Overflow fixes pour mobile */
+@media (max-width: 768px) {
+    body {
+        overflow-x: hidden !important;
+    }
+    
+    .hero-container,
+    .construction-container,
+    .website-container,
+    .stop-guessing-container,
+    .crm-container,
+    .strategy-container,
+    .difference-container,
+    .contact-container,
+    .footer-container {
+        max-width: 100% !important;
+        overflow-x: hidden !important;
+    }
+}
+
+/* Espacement vertical mobile */
+@media (max-width: 768px) {
+    section {
+        scroll-margin-top: 80px !important;
+    }
+}
+
+@media (max-width: 480px) {
+    section {
+        scroll-margin-top: 70px !important;
+    }
+}
